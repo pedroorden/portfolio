@@ -1,12 +1,12 @@
 head:
-  title: "Pedro Orden| Profesional de las ciencias sociales computacionales"
+  title: "Pedro Orden| Especialista en el análisis masivo de datos."
 
 # showcase
 showcase:
   enable: true
   title: "Hola! Soy Pedro Damián Orden."
   subtitle: "Sociólogo y Programador"
-  description: "Soy un profesional de la sociología que articula la investigacion cuali/cuantitativa con técnicas computacionales. Actualmente se desempeña como consultor, docente y coordinador del <a target='_blank' href='https://www.nucleodeinnovacion.com/'> Núcleo de Innovación Social</a>, un hub descentralizado de desarrollo y formación en nuevas tecnologías."
+  description: "Soy un profesional de la sociología que articula la investigación cuali/cuantitativa con técnicas computacionales. Actualmente se desempeña como consultor, docente y coordinador del <a target='_blank' href='https://www.nucleodeinnovacion.com/'> Núcleo de Innovación Social</a>, un hub descentralizado de desarrollo y formación en nuevas tecnologías."
   image:
     x: "img/showcase/data-science.gif"
     _2x: "img/showcase/data-science.gif"
@@ -50,7 +50,7 @@ about:
     Mis principales habilidades son la minería de datos sociales, el análisis del lenguaje natural y la geo-computación.
     </p>
     <p class="lead">
-    En mi tiempo libre me gusta hacer deporte (correr y nadar mis favs), jugar videjuegos y producir música para proyectos audivisuales independientes.
+    En los tiempos de ocio disfruto de hacer deporte (correr y nadar mis favs), jugar videjuegos y producir música para proyectos audivisuales independientes.
     </p>
   button:
     icon: "icon-smile-fill"
