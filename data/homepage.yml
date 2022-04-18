@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hola! Soy Pedro Damián Orden."
   subtitle: "Sociólogo y Programador"
-  description: "Soy un profesional de la sociología que articula la investigación cuali/cuantitativa con técnicas computacionales. Actualmente se desempeña como consultor, docente y coordinador del <a target='_blank' href='https://www.nucleodeinnovacion.com/'> Núcleo de Innovación Social</a>, un hub descentralizado de desarrollo y formación en nuevas tecnologías."
+  description: "Soy un profesional de la sociología que articula la investigación social cuali/cuantitativa con técnicas de análisis computacional. Actualmente me desempeño como consultor en el sector privado y público, doy clases en la Universidad y coordino el <a target='_blank' href='https://www.nucleodeinnovacion.com/'> Núcleo de Innovación Social</a>, un hub descentralizado de desarrollo y formación en nuevas tecnologías."
   image:
     x: "img/showcase/data-science.gif"
     _2x: "img/showcase/data-science.gif"
