@@ -169,12 +169,12 @@ client_and_work:
       is_even: false
       
       
-    - title: "Monitor Socieconómico 2017-2021"
+    - title: "Monitor Socieconómico 2017-2022"
       description: "El Monitor Socieconómico procesa y visualiza interactivamente los principales indicadores sociales y económicos de la Encuesta Permanente de Hogares (EPH Contínua) para el período 2017 a 2021."
       button:
         icon: "icon-arrow-right"
         btnText: "Ver App"
-        URL: "https://pedroorden.shinyapps.io/socioeconomico/"
+        URL: "https://pedroorden.shinyapps.io/socio-economico/"
       image:
         x: "img/works/socioec.jpg"
         _2x: "img/works/socioec.jpg"
