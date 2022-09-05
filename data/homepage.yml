@@ -170,7 +170,7 @@ client_and_work:
       
       
     - title: "Monitor Socioeconómico 2017-2022"
-      description: "El Monitor Socieconómico procesa y visualiza interactivamente los principales indicadores sociales y económicos de la Encuesta Permanente de Hogares (EPH Contínua) para el período 2017 a 2021."
+      description: "El Monitor Socieconómico procesa y visualiza interactivamente los principales indicadores sociales y económicos de la Encuesta Permanente de Hogares (EPH Contínua) para el período 2017 a 2022."
       button:
         icon: "icon-arrow-right"
         btnText: "Ver App"
